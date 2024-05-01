@@ -1,0 +1,3 @@
+#Cualquier fichero con DS_Store
+# Los ** significan que le da igual la ubicación del archivo
+**/.DS_Store
